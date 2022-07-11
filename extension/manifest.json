@@ -1,0 +1,21 @@
+{
+    "name": "My AI-friend - Extension Edition",
+    "description": "Talk with your AI friend, From an extension !",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "default_icon": {
+        "16": "/resource/bot_profile.jpg",
+        "32": "/resource/bot_profile.jpg",
+        "48": "/resource/bot_profile.jpg",
+        "128": "/resource/bot_profile.jpg"
+    },
+    "icons": {
+        "16": "/resource/bot_profile.jpg",
+        "32": "/resource/bot_profile.jpg",
+        "48": "/resource/bot_profile.jpg",
+        "128": "/resource/bot_profile.jpg"
+    }
+}
